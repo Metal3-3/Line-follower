@@ -14,4 +14,7 @@ arduino ide
 
 # chassis info
 it has been designed in tinkercad with the wheels, motor holders, and silicone wheel mold
-i designed it getting inspriation from other line follower robots and from my knowledge. The hardest part was designing the mold pretty much. The chassis uses m3 holes with 4 holes on side for the motor holder, 4 on the front for the qtr-8a and 4 in the middle for the arduino uno shield
+i designed it getting inspriation from other line follower robots and from my knowledge. The hardest part was designing the mold pretty much. The chassis uses m3 holes (3mm) with 4 holes on side for the motor holder, 4 on the front for the qtr-8a and 4 in the middle for the arduino uno shield.
+
+## info for stardance evaluator
+i have included the 3d files , talked about the design process in here and also i havent built this project. i have only 3d printed the prototype chassis, wheels, mold ect
