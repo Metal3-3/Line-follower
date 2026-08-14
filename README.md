@@ -1,5 +1,5 @@
 # Line-follower
-My first serious project i will pit all my knowledge into test
+My first serious project i will put every effort i can give to it. it is right now in the waiting for funding phase. 
 
 # Main components
 Arduino Nano
@@ -14,3 +14,4 @@ arduino ide
 
 # chassis info
 it has been designed in tinkercad with the wheels, motor holders, and silicone wheel mold
+i designed it getting inspriation from other line follower robots and from my knowledge. The hardest part was designing the mold pretty much. The chassis uses m3 holes with 4 holes on side for the motor holder, 4 on the front for the qtr-8a and 4 in the middle for the arduino uno shield
