@@ -1,4 +1,4 @@
-# Line-follower
+# Line follower robot STARK-F1
 <img width="520" height="295" alt="Line_Follower" src="https://github.com/user-attachments/assets/637c3ae2-d381-46e0-a54f-6847e329917d" />
 
 My first serious project i will put every effort i can give to it. it is right now in the waiting for funding phase. 
