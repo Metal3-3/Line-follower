@@ -6,6 +6,7 @@ My first serious project i will put every effort i can give to it. it is right n
 
 # Main components
 <img width="757" height="694" alt="lfstrak" src="https://github.com/user-attachments/assets/5eea5a5d-01c7-40c1-aa51-4d7932dd4efd" />
+
 Arduino Nano 
 Nano shield
 TB6612FNG motor driver
