@@ -2,7 +2,7 @@
 # Line follower robot STARK-F1
 <img width="520" height="295" alt="Line_Follower" src="https://github.com/user-attachments/assets/637c3ae2-d381-46e0-a54f-6847e329917d" />
 
-My first ever serious project. STARK-F1 is a open source line follower robot that uses arduino nano as the micro controller. I wanted to make this after seeing how much line follower kits costed. This robot can be set to faster speeds and can be used in competitions. Right now its set to 70 speed (out of 255) so with proper changes it can be way faster and complete parkours.
+My first ever serious project. STARK-F1 is a line follower robot that uses arduino nano as the micro controller. I wanted to make this after seeing how much line follower kits costed. This robot can be set to faster speeds and can be used in competitions. Right now its set to 70 speed (out of 255) so with proper changes it can be way faster and complete parkours.
 
 # Main components
 <img width="757" height="694" alt="lfstrak" src="https://github.com/user-attachments/assets/5eea5a5d-01c7-40c1-aa51-4d7932dd4efd" />
