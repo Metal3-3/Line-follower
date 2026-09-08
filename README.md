@@ -17,6 +17,8 @@ TB6612FNG motor driver
 
 QTR-8A sensor
 
+2s 7.4v 18650 Battery pack or rechargable pack
+
 # softwares
 tinkercad 
 online ide/compilers
