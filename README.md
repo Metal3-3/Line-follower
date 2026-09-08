@@ -27,6 +27,7 @@ arduino ide
 # chassis info
 it has been designed in tinkercad with the wheels, motor holders, and silicone wheel mold
 i designed it getting inspriation from other line follower robots and from my knowledge. The hardest part was designing the mold pretty much. The chassis uses m3 holes (3mm) with 4 holes on side for the motor holder, 4 on the front for the qtr-8a and 4 in the middle for the arduino uno shield.
+112 x 171 x 4
 
 # Code info
 i got help with claude ai in the code. Through the code i used turkish for the different variables and even the names. Main.ino is the main file that includes the main variables and calibration. MotorKontrol.ino is for motor controll, Sensoroku.ino is for reading the sensor. SensorOkuYaz is to read the sensor and output it. 
